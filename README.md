@@ -8,8 +8,8 @@ This repository contains the code for a high-performing solution to the Mercor A
 
 The goal of this competition was to distinguish between human-written and AI-generated text. This solution tackles the problem by leveraging the principle that a diverse committee of expert models often outperforms any single model. By combining a specialized AI text detector with a state-of-the-art general NLP model, we can capture a wider range of linguistic patterns indicative of AI-generated content.
 
-![Final Prediction Distribution]() <!-- Replace with a link to your plot image -->
-![Model Correlation]() <!-- Replace with a link to your plot image -->
+![Model](https://github.com/MJ665/Mercor-AI-Text-Detection-Kaggle-Compition/blob/main/Mercor.png?raw=true) <!-- Replace with a link to your plot image -->
+
 
 ## Key Features
 
