@@ -1,0 +1,1 @@
+# Mercor-AI-Text-Detection-Kaggle-Compition
